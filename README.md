@@ -1,4 +1,4 @@
-# you can find my accounts here
+# My accounts
 Discord: tot🐊#6713
 Roblox: 0hAnjp
 Steam id: arhanlol
