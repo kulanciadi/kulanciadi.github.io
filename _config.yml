@@ -1,3 +1,7 @@
 title: tot's socials
 theme: midnight
-description: here in this site you can find my socials
+description: >-
+  Here you can find my socials.
+template:
+  name: github-pages-with-jekyll
+  repo: github-pages-with-jekyll-template
