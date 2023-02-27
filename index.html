@@ -74,6 +74,15 @@
             </div>
         </div>
     </div>
+    <audio id="audio" loop="">
+        <source src="mainmusic.mp3" type="audio/mp3">
+        <script>
+          const audio = document.getElementById('audio');
+
+          app.audioElement = audio;
+          app.audioElement.volume = 0;
+        </script>
+      </audio>
     <html>
 
 </html>
