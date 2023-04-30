@@ -61,7 +61,7 @@ const getUser = async () => {
 
 const parseStatus = data => {
   return {
-    text: data.discord_status.replace('online', 'Online').replace('idle', 'Idle').replace('dnd', 'DND').replace('offline', 'Offline (on vacation)'),
+    text: data.discord_status.replace('online', 'Online').replace('idle', 'Idle').replace('dnd', 'DND').replace('offline', 'Offline'),
     color: data.discord_status.replace('online', 'rgb(69 189 69)').replace('idle', '#ffa500').replace('dnd', 'rgb(202, 71, 71)').replace('offline', 'var(--secondary-color)')
   };
 };
