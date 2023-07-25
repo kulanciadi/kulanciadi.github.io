@@ -5,7 +5,7 @@
   width: 30px;
   height: 30px;
   border-radius: 100px;
-  border: 1px solid rgb(255, 255, 255);
+  border: 1px solid #5b0102;
   background-color: transparent;
   pointer-events: none;
   transition: all 0.1s ease;
@@ -14,7 +14,7 @@
 .username--style6 {
   color: #ffffff;
   font-weight: bold;
-  text-shadow: 0px 0px 2px #ddb1c3,0px 0px 3px #ddb1c3,0px 0px 7px #ddb1c3,0px 0px 5px #ddb1c3,0px 0px 8px #ddb1c3,0px 0px 8px #ddb1c3;
+  text-shadow: 0px 0px 2px #5b0102,0px 0px 3px #5b0102,0px 0px 7px #5b0102,0px 0px 5px #5b0102,0px 0px 8px #5b0102,0px 0px 8px #5b0102;
   background: no-repeat,url(images/sparkle_white.gif)
 }
 
