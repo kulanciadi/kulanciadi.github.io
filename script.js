@@ -66,7 +66,7 @@ fetch('https://tot.moli.lat/v1/users/1106835016949956668/')
                 `<span style="color: #ef9f76;">${vscodeActivityState}</span>`;
         } else {
             // If there is no Visual Studio Code activity, you can handle it here
-            document.getElementById('vscode-activity').textContent = "I am currently not using VSCode.";
+            document.getElementById('vscode-activity').textContent = "Not using VSCode.";
         }
     })
     .catch(error => {
