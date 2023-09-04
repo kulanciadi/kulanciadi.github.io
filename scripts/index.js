@@ -1,5 +1,5 @@
 const lanyardJS = window.lanyard;
-const discordId = "935847646508228608";
+const discordId = "1106835016949956668";
 
 function setupTheme() {
   const theme = localStorage.getItem('theme');
@@ -40,7 +40,7 @@ twemoji.parse(document.body);
 
 const properties = {
   api: {
-    baseURL: 'https://api.lanyard.rest/v1'
+    baseURL: 'https://tot.moli.lat/v1'
   },
   github_api: {
     baseURL: 'https://api.github.com'
